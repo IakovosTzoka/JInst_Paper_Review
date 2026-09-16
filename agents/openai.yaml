@@ -1,0 +1,4 @@
+interface:
+  display_name: "JINST Paper Reviewer"
+  short_description: "Review instrumentation manuscripts for JINST"
+  default_prompt: "Use $jinst-paper-reviewer to check my instrumentation manuscript before JINST submission and produce an evidence-linked revision checklist."
